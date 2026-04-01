@@ -1,0 +1,8 @@
+service_id,date,holiday_name,exception_type
+c_71710_b_none_d_0,20260313,Spring Break Service,1
+c_71709_b_86120_d_56,20260313,Spring Break Service,2
+c_71709_b_86120_d_31,20260313,Spring Break Service,2
+c_71709_b_86120_d_127,20260313,Spring Break Service,2
+c_71709_b_86114_d_56,20260313,Spring Break Service,2
+c_71709_b_86114_d_31,20260313,Spring Break Service,2
+c_71709_b_86114_d_127,20260313,Spring Break Service,2

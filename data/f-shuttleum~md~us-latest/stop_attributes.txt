@@ -1,0 +1,302 @@
+stop_id,stop_city
+1001,Lakeland
+55020,Old Town
+1002,Lakeland
+2305,Acredale
+4070,Silver Spring
+2005,Riverdale Park
+2120,Riverdale Park
+2140,Riverdale Park
+2111,Riverdale Park
+2130,Riverdale Park
+1003,Lakeland
+4134,Langley Park
+4320,Silver Spring
+5030,Hyattsville
+5029,Hyattsville
+2430,Lakeland
+1526,Lakeland
+1342,Lakeland
+1313,Lakeland
+2156,Branchville
+3212,Berwyn Heights
+3216,Berwyn Heights
+3221,Berwyn Heights
+2667,Old Town
+2661,Old Town
+4255,Takoma Park
+1543,Calvert Hills
+6072,New Carrollton
+5054,Hyattsville
+5072,Hyattsville
+2622,Acredale
+5015,Hyattsville
+6191,Wildercroft
+5076,Hyattsville
+4276,Takoma Park
+2105,Riverdale Park
+1102,Lakeland
+5059,Hyattsville
+2624,Calvert Hills
+4260,Takoma Park
+1512,Lakeland
+5216,University Park
+6116,New Carrollton
+2440,Lakeland
+4023,Buck Lodge
+6193,Wildercroft
+2626,Calvert Hills
+5212,University Park
+5063,Hyattsville
+5219,University Park
+6195,Wildercroft
+5045,Hyattsville
+1592,Acredale
+4031,Buck Lodge
+5012,University Park
+2676,Old Town
+2303,Acredale
+5051,Hyattsville
+6022,Riverdale Park
+1535,Acredale
+4292,Silver Spring
+5011,Hyattsville
+5090,Riverdale Park
+2322,Acredale
+5082,Hyattsville
+5086,Hyattsville
+4288,Takoma Park
+2421,Lakeland
+2636,Old Town
+4259,Takoma Park
+1722,Lakeland
+5016,University Park
+6197,Wildercroft
+2612,Old Town
+1301,Lakeland
+2112,Riverdale Park
+5224,University Park
+4275,Takoma Park
+5055,Hyattsville
+1331,Lakeland
+5101,Riverdale Park
+5094,Riverdale Park
+6021,Riverdale Park
+2678,Old Town
+5215,University Park
+4272,Takoma Park
+4284,Takoma Park
+4252,Takoma Park
+3046,Hollywood
+6012,Riverdale Park
+4280,Takoma Park
+1595,Acredale
+4287,Takoma Park
+4279,Takoma Park
+1314,Lakeland
+3042,Hollywood
+2674,Old Town
+2304,Acredale
+6179,New Carrollton
+6082,Landover
+2712,Calvert Hills
+1305,Lakeland
+2321,Acredale
+4291,Silver Spring
+1561,Calvert Hills
+1332,Lakeland
+6175,New Carrollton
+2410,Berwyn
+4256,Takoma Park
+6124,New Carrollton
+2325,Acredale
+6060,New Carrollton
+1113,Acredale
+4283,Takoma Park
+4251,Takoma Park
+6068,New Carrollton
+6120,New Carrollton
+6156,New Carrollton
+6164,New Carrollton
+6171,New Carrollton
+2621,Hyattsville
+6152,New Carrollton
+2663,Old Town
+6112,New Carrollton
+6160,New Carrollton
+1540,Calvert Hills
+1310,Lakeland
+1565,Calvert Hills
+1522,Lakeland
+1114,Acredale
+1582,Old Town
+3060,Cherry Hill
+1721,Old Town
+1705,Old Town
+1706,Old Town
+4241,Takoma Park
+4242,Takoma Park
+4036,Buck Lodge
+4028,Buck Lodge
+4024,Buck Lodge
+4012,Acredale
+4027,Buck Lodge
+4011,Acredale
+2331,Acredale
+2332,Acredale
+4040,Buck Lodge
+4039,Buck Lodge
+4035,Buck Lodge
+4020,Buck Lodge
+4019,Buck Lodge
+1701,Old Town
+4016,Acredale
+1710,Old Town
+4015,Acredale
+1702,Old Town
+1709,Old Town
+6090,Landover
+5220,Riverdale Park
+4056,Silver Spring
+4055,Silver Spring
+4051,Buck Lodge
+4059,Silver Spring
+1726,Lakeland
+5040,Hyattsville
+1125,Lakeland
+1126,Acredale
+5039,Hyattsville
+5105,Hyattsville
+2627,Old Town
+1129,Lakeland
+1130,Lakeland
+1121,Lakeland
+3016,Daniels Park
+1122,Lakeland
+3020,Daniels Park
+1134,Lakeland
+3024,Daniels Park
+3012,Daniels Park
+2691,Old Town
+3028,Daniels Park
+6032,Rogers Heights
+6035,Rogers Heights
+6031,Rogers Heights
+6039,Wildercroft
+6040,Wildercroft
+6044,Wildercroft
+6036,Wildercroft
+6056,New Carrollton
+6052,New Carrollton
+6048,Landover
+6064,New Carrollton
+1579,Old Town
+1570,Calvert Hills
+2102,Riverdale Park
+1544,Calvert Hills
+1110,Acredale
+1581,Old Town
+1109,Acredale
+1326,Lakeland
+1536,Calvert Hills
+1322,Lakeland
+2683,Acredale
+2681,Acredale
+1318,Lakeland
+2685,Acredale
+1106,Lakeland
+1524,Lakeland
+1596,Acredale
+4228,Carole Highlands
+4227,Langley Park
+2449,Lakeland
+2688,Buck Lodge
+4223,Langley Park
+4302,Silver Spring
+4231,Takoma Park
+4305,Silver Spring
+4215,Lewisdale
+6043,Wildercroft
+4224,Carole Highlands
+2687,Buck Lodge
+6140,New Carrollton
+4301,Silver Spring
+2441,Lakeland
+5211,University Park
+6145,New Carrollton
+4219,Langley Park
+4310,Silver Spring
+4309,Silver Spring
+4306,Silver Spring
+1539,Calvert Hills
+6132,New Carrollton
+6136,New Carrollton
+3225,Berwyn Heights
+3231,Berwyn Heights
+3242,Berwyn Heights
+3250,College Park Estates
+3999,Columbia
+3258,Greenbelt
+3270,Greenbelt
+3266,Greenbelt
+3283,Greenbelt
+3330,Greenbelt
+3334,Greenbelt
+3326,Greenbelt
+3314,Greenbelt
+3279,Greenbelt
+3241,Berwyn Heights
+3322,Greenbelt
+3298,Edgewood
+3337,Greenbelt
+3287,Greenbelt
+3262,Greenbelt
+3257,Greenbelt
+3269,Greenbelt
+3261,Greenbelt
+3307,Edgewood
+3275,Greenbelt
+3318,Greenbelt
+3291,Edgewood
+3296,Edgewood
+3280,Greenbelt
+3284,Greenbelt
+3303,Edgewood
+3292,Edgewood
+3276,Greenbelt
+3341,Greenbelt
+3304,Edgewood
+3265,Greenbelt
+3308,Greenbelt
+3295,Edgewood
+3222,Berwyn Heights
+3233,Berwyn Heights
+3211,Berwyn Heights
+2155,Branchville
+3288,Greenbelt
+3226,Berwyn Heights
+1309,Lakeland
+1306,Lakeland
+1302,Lakeland
+1341,Lakeland
+1531,Lakeland
+5252,Hyattsville
+5256,Hyattsville
+4999,Gaithersburg
+2652,College Park
+2651,College Park
+2004,College Park
+4032,Buck Lodge
+4222,Lewisdale
+1325,Lakeland
+1321,Lakeland
+1140,Acredale
+2632,Lakeland
+1317,Lakeland
+2113,Riverdale Park
+1007,Lakeland
+7301,Lakeland
+7022,Lakeland
+7024,Lakeland
+6100,Landover
+2415,Berwyn
