@@ -4,13 +4,14 @@
 #assess for possible duplicates trips (same route, stop, and arrival time)
 #jsonify output
 #clean up code into functions and classes as needed
+#117 missing headsign error? wtf?? add config harcode
 
 import pandas as pd
 from datetime import datetime
 import config
 
 PATH = config.SHUTTLE_PATH
-def get_upcoming_arrivals():
+def get_upcoming_departures():
     stop_times = pd.read_csv(PATH + "stop_times.txt")
     trips = pd.read_csv(PATH + "trips.txt")
     routes = pd.read_csv(PATH + "routes.txt")
@@ -69,7 +70,10 @@ def get_upcoming_arrivals():
 
     df = pd.merge(df, stops[['stop_id', 'stop_name']], on='stop_id', how='left')
     #reorder columns
+    df['trip_headsign'] = df['trip_headsign'].fillna("Blue") #FIXME: 117 hardcode
     df = df[['stop_id', 'stop_name', 'arrival_display', 'minutes_away', 'route_short_name', 'trip_headsign','arrival_seconds']]
+    df = df.where(pd.notnull(df), None) #replace NaNs with JSON None bc reasons (FIXME: better solution??)
+    print(df[df.isna().any(axis=1)])
     return df.to_dict(orient='records')
 
 def gtfs_time_to_seconds(t):
@@ -87,6 +91,6 @@ def seconds_to_time(seconds):
     return f"{h:02}:{m:02}:{s:02}"
 
 if __name__ == "__main__":
-    data = get_upcoming_arrivals()
+    data = get_upcoming_departures()
     for row in data:
         print(row)
